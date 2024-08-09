@@ -1,0 +1,16 @@
+2024-08-08 22:44:22 INFO  Main:30 - Hola
+2024-08-08 22:47:03 INFO  Main:22 - Este es el odontologo que sabe
+2024-08-08 22:47:03 INFO  Main:23 - Odontologo {id=1, nombre='Yei', apellido='Toro', numeroMatricula'BVM11E}
+2024-08-08 22:47:03 INFO  Main:28 - Este es el odontologo modificado
+2024-08-08 22:47:03 INFO  Main:29 - Odontologo {id=1, nombre='Daniela', apellido='Toro', numeroMatricula'BVM11E}
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:41 - Se guardó el odontologo con nombre Yei
+2024-08-08 22:49:43 INFO  Main:22 - Este es el odontologo que sabe
+2024-08-08 22:49:43 INFO  Main:23 - Odontologo {id=1, nombre='Yei', apellido='Toro', numeroMatricula'BVM11E}
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:183 - Este es el nuevo nombre del Odontologo Daniela
+2024-08-08 22:49:43 INFO  Main:28 - Este es el odontologo modificado
+2024-08-08 22:49:43 INFO  Main:29 - Odontologo {id=1, nombre='Daniela', apellido='Toro', numeroMatricula'BVM11E}
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:41 - Se guardó el odontologo con nombre Daniela
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:41 - Se guardó el odontologo con nombre Nicolas
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:80 - Odontologo {id=1, nombre='Daniela', apellido='Toro', numeroMatricula'BVM11E}
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:80 - Odontologo {id=2, nombre='Daniela', apellido='Anttury', numeroMatricula'HML11A}
+2024-08-08 22:49:43 INFO  ImplementacionDaoH2:80 - Odontologo {id=3, nombre='Nicolas', apellido='Duran', numeroMatricula'COPABF0605E}

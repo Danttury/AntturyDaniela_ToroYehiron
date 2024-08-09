@@ -1,0 +1,39 @@
+2024-08-08 22:32:17.658454-05:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor Invalido "4" para el parametro "parameterIndex"
+Invalid value "4" for parameter "parameterIndex" [90008-230]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:658)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.getInvalidValueException(DbException.java:298)
+	at org.h2.jdbc.JdbcPreparedStatement.setParameter(JdbcPreparedStatement.java:1396)
+	at org.h2.jdbc.JdbcPreparedStatement.setString(JdbcPreparedStatement.java:388)
+	at dao.impl.ImplementacionDaoH2.guardar(ImplementacionDaoH2.java:29)
+	at dao.impl.ImplementacionDaoH2.guardar(ImplementacionDaoH2.java:11)
+	at servicio.OdontologoServicio.guardar(OdontologoServicio.java:17)
+	at Main.main(Main.java:18)
+2024-08-08 22:32:17.682298-05:00 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor Invalido "4" para el parametro "parameterIndex"
+Invalid value "4" for parameter "parameterIndex" [90008-230]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:658)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.getInvalidValueException(DbException.java:298)
+	at org.h2.jdbc.JdbcPreparedStatement.setParameter(JdbcPreparedStatement.java:1396)
+	at org.h2.jdbc.JdbcPreparedStatement.setString(JdbcPreparedStatement.java:388)
+	at dao.impl.ImplementacionDaoH2.guardar(ImplementacionDaoH2.java:29)
+	at dao.impl.ImplementacionDaoH2.guardar(ImplementacionDaoH2.java:11)
+	at servicio.OdontologoServicio.guardar(OdontologoServicio.java:17)
+	at Main.main(Main.java:33)
+2024-08-08 22:32:17.684293-05:00 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor Invalido "4" para el parametro "parameterIndex"
+Invalid value "4" for parameter "parameterIndex" [90008-230]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:658)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.getInvalidValueException(DbException.java:298)
+	at org.h2.jdbc.JdbcPreparedStatement.setParameter(JdbcPreparedStatement.java:1396)
+	at org.h2.jdbc.JdbcPreparedStatement.setString(JdbcPreparedStatement.java:388)
+	at dao.impl.ImplementacionDaoH2.guardar(ImplementacionDaoH2.java:29)
+	at dao.impl.ImplementacionDaoH2.guardar(ImplementacionDaoH2.java:11)
+	at servicio.OdontologoServicio.guardar(OdontologoServicio.java:17)
+	at Main.main(Main.java:34)
